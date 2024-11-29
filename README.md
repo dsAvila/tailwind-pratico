@@ -1,0 +1,1 @@
+Este repositório é referente ao curso "Programador Web Completo — Do Zero ao FullStack". Desenvolvi este projeto para práticar e entender melhor como funcionam as ferramentas do Tailwind CSS, criando um layout moderno e responsivo.
